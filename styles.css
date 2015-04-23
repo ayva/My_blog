@@ -2,9 +2,7 @@ body{
 font-family: Helvetica, Sans-Serif;
 }
 
-div {
-  border: 1px solid #ddd;
-}
+
 .navbar{
   height: 70px;
   border-bottom: 1px solid black;
@@ -71,6 +69,8 @@ div {
 
 .post{
   padding: 40px 80px;
+  margin: 40px;
+  border: 2px solid #ddd;
 }
 .a{
   color: #085394;
